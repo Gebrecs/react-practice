@@ -1,16 +1,50 @@
-# React + Vite
+# React Practice & Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of React projects built while developing my frontend development skills.
 
-Currently, two official plugins are available:
+These projects cover React fundamentals, component-based development, state management, API integration, forms, events, lists, conditional rendering, and reusable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Projects
 
-## React Compiler
+### AI Recipe Generator
+A React application that accepts ingredients and generates recipe suggestions using an external API.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Travel Journal
+A responsive travel journal built with reusable React components and structured data.
 
-## Expanding the ESLint configuration
+### Tenzies
+A small interactive dice game built with React state and event handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Interactive Pads
+A React project demonstrating state management and interactive components.
+
+### Star / Favorites
+A reusable favorite button component demonstrating props, state, and event handling.
+
+### React Facts
+A beginner React project focused on components, JSX, and basic styling.
+
+## 🛠️ Technologies
+
+- React
+- JavaScript
+- JSX
+- HTML5
+- CSS3
+- Vite
+- REST APIs
+- Git
+- GitHub
+
+## 📚 What I'm Practicing
+
+- React Hooks
+- State management
+- Props
+- Event handling
+- Forms
+- Conditional rendering
+- Lists and keys
+- API integration
+- Reusable components
+- Responsive UI development
